@@ -34,8 +34,9 @@ advised by [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/).
 **I am currently looking for Ph.D. positions.**
 
 My research interests lie in **video representation learning**, **video understanding**, and **debiasing**.
-Specifically, I aim to build models that generalize beyond spurious shortcuts toward holistic, compositional reasoning over actions in videos.
-My prior work has primarily centered on uni-modal ([DEVIAS](https://arxiv.org/abs/2312.00826)) and multi-modal ([RCORE](https://arxiv.org/abs/2601.16211)) video encoders, and I am also comfortable working with MLLMs ([EVIDENT](#)).
-I am also curious about VLA models and world models.
+Specifically, I aim to build models that generalize beyond spurious shortcuts toward holistic reasoning over actions in videos.
+I am also broadly interested in addressing the current bottlenecks in video understanding, such as limited temporal and compositional reasoning, and in exploring how video models can serve as a foundation for VLA and world models.
+<!-- My prior work has primarily centered on uni-modal ([DEVIAS](https://arxiv.org/abs/2312.00826)) and multi-modal ([RCORE](https://arxiv.org/abs/2601.16211)) video encoders, and I am also comfortable working with MLLMs ([EVIDENT](#)).
+I am also curious about VLA models and world models. -->
 
 Most recently, I was a research intern at **NAVER Cloud (Video Team)** in 2025, where I worked on compositional generalization with vision-language models.
