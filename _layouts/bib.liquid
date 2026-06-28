@@ -262,6 +262,13 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+     {% if entry.project_page %}
+       {% if entry.project_page contains '://' %}
+         <a href="{{ entry.project_page }}" class="btn btn-sm z-depth-0" role="button">Project Page</a>
+       {% else %}
+         <a href="{{ entry.project_page | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Project Page</a>
+       {% endif %}
+     {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
