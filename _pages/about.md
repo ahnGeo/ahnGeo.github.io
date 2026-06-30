@@ -6,7 +6,7 @@ subtitle: M.S. in Computer Science &amp; Engineering, <a href="https://www.khu.a
 
 profile:
   align: right
-  image: profile.jpeg
+  image: profile.png
   image_circular: false
   more_info: >
     <p><a href="mailto:ahngeo11@khu.ac.kr">ahngeo11 (at) khu.ac.kr</a></p>
