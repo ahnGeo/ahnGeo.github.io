@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: M.S. in Computer Science &amp; Engineering, <a href="https://www.khu.ac.kr/eng/" target="_blank">Kyung Hee University</a>
+subtitle: >-
+  M.S. in Computer Science &amp; Engineering, <a href="https://www.khu.ac.kr/eng/" target="_blank">Kyung Hee University</a> <br>
+  <span style="color:red">Looking for Ph.D. positions starting in Fall 2027</span>
 
 profile:
   align: right
@@ -29,9 +31,10 @@ latest_posts:
   limit: 3
 ---
 
-I am **Geo Ahn**, a recent M.S. graduate in Computer Science & Engineering at Kyung Hee University, South Korea,
+I am a recent M.S. graduate in Computer Science & Engineering at Kyung Hee University, South Korea,
 advised by [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/).
-**I am currently looking for Ph.D. positions.**
+I was a research intern at **NAVER Cloud (Video Team)** in 2025, and continue to work with [Inwoong Lee](https://scholar.google.com/citations?user=cfl4xNMAAAAJ&hl=ko), [Taeoh Kim](https://taeoh-kim.github.io/) and [Minho Shim](https://scholar.google.com/citations?user=42dUnrgAAAAJ&hl=ko).
+I am also fortunate to collaborate with [Prof. Joonseok Lee](https://viplab.snu.ac.kr/) at Seoul National University.
 
 My research interests lie in **video representation learning**, **video understanding**, and **debiasing**.
 Specifically, I aim to build models that generalize beyond spurious shortcuts toward holistic reasoning over actions in videos.
@@ -39,4 +42,3 @@ I am also broadly interested in addressing the current bottlenecks in video unde
 <!-- My prior work has primarily centered on uni-modal ([DEVIAS](https://arxiv.org/abs/2312.00826)) and multi-modal ([RCORE](https://arxiv.org/abs/2601.16211)) video encoders, and I am also comfortable working with MLLMs ([EVIDENT](#)).
 I am also curious about VLA models and world models. -->
 
-Most recently, I was a research intern at **NAVER Cloud (Video Team)** in 2025, where I worked on compositional generalization with vision-language models.
