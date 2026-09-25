@@ -8,7 +8,7 @@ subtitle: >-
 
 profile:
   align: right
-  image: profile.png
+  image: profile.jpeg
   image_circular: false
   more_info: >
     <p><a href="mailto:ahngeo11@khu.ac.kr">ahngeo11 (at) khu.ac.kr</a></p>
