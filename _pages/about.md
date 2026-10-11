@@ -31,14 +31,11 @@ latest_posts:
   limit: 3
 ---
 
-I am a recent M.S. graduate in Computer Science & Engineering at Kyung Hee University, South Korea,
+I recently received my M.S. in Computer Science & Engineering from Kyung Hee University, South Korea, where I was
 advised by [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/).
 I was a research intern at **NAVER Cloud (Video Team)** in 2025, and continue to work with [Inwoong Lee](https://scholar.google.com/citations?user=cfl4xNMAAAAJ&hl=ko), [Taeoh Kim](https://taeoh-kim.github.io/) and [Minho Shim](https://scholar.google.com/citations?user=42dUnrgAAAAJ&hl=ko).
 I am also fortunate to collaborate with [Prof. Joonseok Lee](https://viplab.snu.ac.kr/) at Seoul National University.
 
-My research interests lie in **video representation learning**, **video understanding**, and **debiasing**.
-Specifically, I aim to build models that generalize beyond spurious shortcuts toward holistic reasoning over actions in videos.
-I am also broadly interested in addressing the current bottlenecks in video understanding, such as limited temporal and compositional reasoning, and in exploring how video models can serve as a foundation for VLA and world models.
-<!-- My prior work has primarily centered on uni-modal ([DEVIAS](https://arxiv.org/abs/2312.00826)) and multi-modal ([RCORE](https://arxiv.org/abs/2601.16211)) video encoders, and I am also comfortable working with MLLMs ([EVIDENT](#)).
-I am also curious about VLA models and world models. -->
-
+My research centers on **how to best represent videos** so that models can perceive the real world as humans do.
+I am interested in identifying and resolving the bottlenecks that stand between current video models and this goal, such as shortcut reliance and weak temporal grounding.
+Recently, my research has expanded to latent action world models, asking whether their learned actions capture real-world dynamics.
