@@ -36,7 +36,7 @@ advised by [Prof. Jinwoo Choi](https://sites.google.com/site/jchoivision/).
 I was a research intern at NAVER Cloud (Video Team) in 2025, and continue to work with [Inwoong Lee](https://scholar.google.com/citations?user=cfl4xNMAAAAJ&hl=ko), [Taeoh Kim](https://taeoh-kim.github.io/) and [Minho Shim](https://scholar.google.com/citations?user=42dUnrgAAAAJ&hl=ko).
 I am also fortunate to collaborate with [Prof. Joonseok Lee](https://viplab.snu.ac.kr/) at Seoul National University.
 
-My research centers on **how to best represent videos** so that models can perceive the real world as humans do.
+My research centers on <b style="font-weight: 300;">how to best represent videos so that models can perceive the real world as humans do</b>.
 I am interested in identifying and resolving the bottlenecks that stand between current video models and this goal, such as shortcut reliance and weak temporal grounding.
 <!-- I have mainly addressed this in video understanding tasks with both unimodal and multimodal models.  -->
 Recently, I have been studying latent action world models, asking whether their learned actions capture real-world dynamics.
