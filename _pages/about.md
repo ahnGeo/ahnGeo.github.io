@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >-
-  M.S. in Computer Science &amp; Engineering, <a href="https://www.khu.ac.kr/eng/" target="_blank">Kyung Hee University</a> <br>
+  <!-- M.S. in Computer Science &amp; Engineering, <a href="https://www.khu.ac.kr/eng/" target="_blank">Kyung Hee University</a> <br>  -->
   <span style="color:red">Looking for Ph.D. positions starting in Fall 2027</span>
 
 profile:
