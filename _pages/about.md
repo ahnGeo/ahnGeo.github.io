@@ -40,4 +40,4 @@ I am also fortunate to collaborate with [Prof. Joonseok Lee](https://viplab.snu.
 My research centers on <span style="font-weight: 500;">how to best represent videos so that models can perceive the real world as humans do</span>.
 <!-- I am interested in identifying and resolving the bottlenecks that stand between current video models and this goal, such as shortcut reliance and weak temporal grounding. -->
 I have mainly addressed this in video understanding tasks with both unimodal and multimodal models. 
-Recently, I have been studying latent action world models, asking whether their learned actions capture real-world dynamics.
+Recently, I have been working on latent action world models, asking whether their learned actions capture real-world dynamics.
